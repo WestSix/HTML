@@ -1,0 +1,8 @@
+body{
+    background: url("../images/winter_bg.jpg") 100%;
+}
+
+.section_wrap{
+    height: 620px;
+    margin-top: -310px;
+}
